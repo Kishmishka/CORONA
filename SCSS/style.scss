@@ -718,7 +718,7 @@ body._lock{
    }
    
 }
-@media(max-width:427.99px){
+@media(max-width:425.99px){
    .body-statistic-experts{
       flex-direction: column;
    }
@@ -732,13 +732,11 @@ body._lock{
       gap: 0;
       }
    }
-
-}
-@media(max-width: 346.99px){
    .menu__body{
       width: 100%;
    }
    .menu__list{
       align-items: center;
    }
+
 }

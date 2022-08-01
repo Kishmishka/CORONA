@@ -722,7 +722,7 @@ body._lock {
     padding: 24px 30px;
   }
 }
-@media (max-width: 427.99px) {
+@media (max-width: 425.99px) {
   .body-statistic-experts {
     flex-direction: column;
   }
@@ -733,8 +733,6 @@ body._lock {
     flex-direction: column;
     gap: 0;
   }
-}
-@media (max-width: 346.99px) {
   .menu__body {
     width: 100%;
   }
