@@ -643,7 +643,7 @@ body._lock {
     right: 0;
     width: 130px;
     height: 100%;
-    background-color: rgba(0, 0, 0, 0.8);
+    background-color: rgba(0, 0, 0, 0.9);
     padding: 100px 20px;
     transition: 0.3s;
     transform: translate(100%, 0px);
@@ -738,5 +738,9 @@ body._lock {
   }
   .menu__list {
     align-items: center;
+  }
+  .menu__link {
+    font-size: 20px;
+    letter-spacing: 5px;
   }
 }
